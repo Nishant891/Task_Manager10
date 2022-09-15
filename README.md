@@ -3,5 +3,5 @@
 
 
 
-Tech used: java
+Tech used: Java
 
